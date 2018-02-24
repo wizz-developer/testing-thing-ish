@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const music = require('discord.js-music-v11');
 const Bot = new Discord.Client();
-const token = "NDE2ODkxMzg5NzM4MDkwNDk2.DXNjcg.1JOYwJcvEGOSawZYurooRdg4kZo" // Recommended to load from json file.
+const token = "NDE3MDY4OTI5MDU2NTA1ODU2.DXNpOQ.Fqe5BS0Jea2NsV0I-zHD-mHTSVs" // Recommended to load from json file.
 
 Bot.on('ready', () => {
     console.log(`[Start] ${new Date()}`);
